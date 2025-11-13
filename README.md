@@ -10,7 +10,7 @@ Projekt grupowy realizowany w ramach zajęć "Projektowanie systemów interaktyw
 **Podział obowiązków:**
 - _Wiktoria Opalińska_: Kod gry, logika trybów i składanie projektu.
 - _Kamil Opar_: Kod arduino i komunikacja z Processingiem
--_ Maksymilian Tambo_r: GUI
+- _Maksymilian Tambor_: GUI
 
 **Techniczne aspekty kodu:**
 - Do utworzenia gry wykorzystaliśmy biblioteki i moduły, takie jak ControlP5 (GUI), Minim (dźwięk), PImage, Serial. Nie mogliśmy pozwolić sobie wykorzystanie większej liczby ze względów na spowolnienie, które prawdopodobnie wynika z konfliktu Windowsa 11 z Processingiem.  - Obiektowy charakter projektu:
