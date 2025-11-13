@@ -13,7 +13,8 @@ Projekt grupowy realizowany w ramach zajęć "Projektowanie systemów interaktyw
 - _Maksymilian Tambor_: GUI
 
 **Techniczne aspekty kodu:**
-- Do utworzenia gry wykorzystaliśmy biblioteki i moduły, takie jak ControlP5 (GUI), Minim (dźwięk), PImage, Serial. Nie mogliśmy pozwolić sobie wykorzystanie większej liczby ze względów na spowolnienie, które prawdopodobnie wynika z konfliktu Windowsa 11 z Processingiem.  - Obiektowy charakter projektu:
+- Do utworzenia gry wykorzystaliśmy biblioteki i moduły, takie jak ControlP5 (GUI), Minim (dźwięk), PImage, Serial. Nie mogliśmy pozwolić sobie wykorzystanie większej liczby ze względów na spowolnienie, które prawdopodobnie wynika z konfliktu Windowsa 11 z Processingiem.
+- Obiektowy charakter projektu:
   - 3 klasy własne: Player (gracz), Ground (podłoże) oraz Obstacle (przeszkody),
   - 1 klasa z biblioteki Minim: AudioPlayer.
 - Pliki zewnętrzne:
