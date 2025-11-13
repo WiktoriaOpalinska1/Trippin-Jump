@@ -13,13 +13,13 @@ Projekt grupowy realizowany w ramach zajęć "Projektowanie systemów interaktyw
 -_ Maksymilian Tambo_r: GUI
 
 **Techniczne aspekty kodu:**
-- Do utworzenia gry wykorzystaliśmy biblioteki i moduły, takie jak ControlP5 (GUI), Minim (dźwięk), PImage, Serial. Nie mogliśmy pozwolić sobie wykorzystanie większej liczby ze względów na spowolnienie, które prawdopodobnie wynika z konfliktu Windowsa 11 z Processingiem.  _- Obiektowy charakter projektu:_
+- Do utworzenia gry wykorzystaliśmy biblioteki i moduły, takie jak ControlP5 (GUI), Minim (dźwięk), PImage, Serial. Nie mogliśmy pozwolić sobie wykorzystanie większej liczby ze względów na spowolnienie, które prawdopodobnie wynika z konfliktu Windowsa 11 z Processingiem.  - Obiektowy charakter projektu:
   - 3 klasy własne: Player (gracz), Ground (podłoże) oraz Obstacle (przeszkody),
   - 1 klasa z biblioteki Minim: AudioPlayer.
-_-  Pliki zewnętrzne:_
+- Pliki zewnętrzne:
   - Pliki graficzne (w GUI + jako  „ruchome” elementy)
   - Pliki dźwiękowe (muzyka do poszczególnych trybów)
-_- Komunikacja Procecesing - Arduino_
+- Komunikacja Procecesing - Arduino
   - Uruchomienie gry zapala zieloną diodę.
   - Gdy gracz przegra, na ekranie podłączonym do Arduino wyświetla się „Game over”.
   - Przycick podpięty pod Arduino umożliwia skakanie.
